@@ -1,0 +1,14 @@
+{
+  "geode": ">=4.0.0",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "giatient459.tientools",
+  "name": "TienTools",
+  "version": "1.0.0",
+  "developer": "giatient459-dotcom",
+  "description": "A basic Geode Android test mod with a simple menu button.",
+  "dependencies": {
+    "geode.node-ids": ">=v1.23.3"
+  }
+}
